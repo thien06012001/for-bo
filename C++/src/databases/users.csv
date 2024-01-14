@@ -1,0 +1,13 @@
+username,password,role,isAuthenticated,fullname,phoneNumber,email,homeAddress,city,latitude,longitude,creditCardNumber,balance,creditPoints,skillRatingScore,supporterRatingScore,hostRatingScore
+testing1,123456789,RegularMember,False,Test,0910000000,test@gmail.com,278 Real Street,24,10.8273,106.993,6011000990139424,10,170,5,5,0
+cplusplus,resetpass,RegularMember,False,C Plus Plus,0919140888,cpp@gmail.com,RMIT University VietNam,28,10.7292,106.696,5425233430109903,280,120,0,0,0
+testing2,123456789,RegularMember,False,Trinh Nguyen Ha,0912951555,ha@gmail.com,T2 Masteri Thao Dien,28,10.444,106.898,4347699988887777,174,59.67,5,3.5,5
+testing3,123456789,RegularMember,False,Nguyen Ha,0909090909,nha@gmail.com,123 Fake Street,24,10.22,106.222,4001919257537193,247,139.33,0,0,5
+testing4,123456789,RegularMember,False,Ha Trinh,0909090090,ha2@gmail.com,182 Imagination Blv,28,10.3333,106.229,6034883265619896,295,90,0,0,4
+testing5,123456789,RegularMember,False,Nguyen Ha,0987654321,ha3@gmail.com,7387 Surreal Building,24,10.3722,106.838,3566000020000410,280,113,0,0,5
+testing6,123456789,RegularMember,False,Tester Six,0913456789,tester@gmail.com,9283 Void,24,10.283,106.222,4001919257537193,380,26.75,5,4,0
+testing7,123456789,RegularMember,False,Tester Seven,0987654213,test7@gmail.com,Landmark 81,28,10.7952,106.722,4347699988887777,160,139.25,4,4.66667,0
+bluecheese,123456789,RegularMember,False,Blue Cheese,0123456789,bluchiz@gmail.com,1234 Main St,24,10.7128,106.006,6011000990139424,157,528.25,0,0,5
+bangdepchai,07112004,RegularMember,False,Chau Chan Bang,0123456789,bang@gmail.com,Rmit,28,10.2338,106.283,6034932528973614,180,219.77,0,0,2
+testing8,123456789,RegularMember,False,Tester Eight,0909091234,tester8@gmail.com,RMIT Vietnam,24,10.2222,106.874,5200533989557118,380,62.23,5,4,0
+testing9,123456789,RegularMember,False,Tester Nine,0143789432,tester9@gmail.com,F29 Bitexco Tower,28,10.3829,106.777,4263982640269299,880,120,0,0,0
