@@ -12,6 +12,8 @@
   https://aarsoftx.com/blogs/make-bar-chart-on-consoleterminal-using-this-c-library
 */
 
+// write documentation
+
 #include <iostream>
 #include <string>
 #include <unordered_set>
