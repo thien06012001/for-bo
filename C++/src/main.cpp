@@ -9,7 +9,7 @@
   Last modified: 02/01/2024
   Acknowledgement: https://superuser.com/questions/413073/windows-console-with-ansi-colors-handling
 */
-
+// Comment
 #include <iostream>
 #include <string>
 #include "TimeBankSystem.h"
